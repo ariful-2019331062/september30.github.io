@@ -15,7 +15,7 @@ body {
 }
 
 .container {
-  width: 1200px;
+  width: 90%;
   /* margin-left: auto;
   margin-right: auto; */
   margin: 0 auto;
@@ -250,7 +250,7 @@ h2::before {
 
 .row {
   display: flex;
-  gap: 80px;
+  gap: 50px;
   justify-content: space-between;
   align-items: flex-start;
 }
@@ -260,5 +260,5 @@ article {
 }
 
 aside {
-  flex: 0 1 320px;
+  flex: 0 0 320px;
 }
